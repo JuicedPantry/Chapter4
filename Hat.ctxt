@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Hat
+comment1.params=ag\ wrg
+comment1.target=Hat(int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hat\r\n
+comment2.params=
+comment2.target=int\ getAge()
+comment3.params=wrg
+comment3.target=void\ setWearing(boolean)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
